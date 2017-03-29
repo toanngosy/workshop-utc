@@ -1,0 +1,3 @@
+somethingElse(
+	something3();
+);
